@@ -32,14 +32,10 @@
 
 
 #### 🏦 Financial Inclusion Prediction
-*A Machine Learning Model to predict bank account ownership*
-> Developed an **XGBoost Classifier** to identify individuals most likely to have or use bank accounts across four African countries. Involved comprehensive data preprocessing and feature engineering.
 - **Tech:** Python, Pandas, Scikit-learn, XGBoost, NumPy
 - [**View Project**](https://github.com/Phiwe-R/inclusion-prediction)
 
 #### 🐕 Breed Classifier (AWS)  (OOP focused)
-*An Image Classification Pipeline using CNNs*
-> Built a pipeline in Python to classify pet breeds using pre-trained CNN architectures like **ResNet, AlexNet, and VGG**. Calculated accuracy statistics and analyzed model misclassifications.
 - **Tech:** Python, CNN(Pre-Trained)
 - [**View Project**](https://github.com/YourUsername/breed-classifier)
 ---
