@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me :
 
-- 📊 My interests revolve around **Data Science**, **Machine Learning**, and **AI**
-- 🧠 I'm currently expanding my knowledge through the **AWS AI & ML Nanodegree Scholarship Programme** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🚀 Exploring the practical applications of **Scikitlearn**,  **Pandas** , **Numpy** etc.
+-  My interests revolve around **Data Science**, **Machine Learning**, **Software** and **AI**
+-  I'm currently expanding my knowledge through the **AWS AI & ML Nanodegree Scholarship Programme** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+-  Exploring the practical applications of **Scikitlearn**,  **Pandas** , **Numpy** etc.
 ---
 
 ### 🛠️ Languages & Tools :
@@ -28,7 +28,7 @@
 
 ---
 
-### 🔥 My Projects :
+### My Projects :
 
 
 #### 🏦 Financial Inclusion Prediction
