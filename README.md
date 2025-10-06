@@ -37,5 +37,5 @@
 
 #### 🐕 Breed Classifier (AWS)  (OOP focused)
 - **Tech:** Python, CNN(Pre-Trained)
-- [**View Project**](https://github.com/YourUsername/breed-classifier)
+- [**View Project**](https://github.com/Phiwe-R/breed-classifier)
 ---
