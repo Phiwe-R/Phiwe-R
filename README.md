@@ -35,7 +35,7 @@
 *A Machine Learning Model to predict bank account ownership*
 > Developed an **XGBoost Classifier** to identify individuals most likely to have or use bank accounts across four African countries. Involved comprehensive data preprocessing and feature engineering.
 - **Tech:** Python, Pandas, Scikit-learn, XGBoost, NumPy
-- [**View Project**](https://github.com/Phiwe-R/financial-inclusion-prediction)
+- [**View Project**](https://github.com/Phiwe-R/inclusion-prediction)
 
 #### 🐕 Breed Classifier (AWS)  (OOP focused)
 *An Image Classification Pipeline using CNNs*
