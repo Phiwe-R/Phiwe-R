@@ -29,7 +29,9 @@
 ---
 
 ### My Projects :
-
+#### 📊 Fiscal-Year Analysis RAG Chatbot
+- **Tech:**Python, LangChain, Chroma, Mistral LLM, Gradio
+- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
 
 #### 🏦 Financial Inclusion Prediction
 - **Tech:** Python, Pandas, Scikit-learn, XGBoost, NumPy
