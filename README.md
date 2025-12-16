@@ -33,6 +33,10 @@
 - **Tech:** Python, LangChain, Chroma, Mistral LLM, Gradio
 - [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
 
+#### 🎬 SentimentScope – Transformer-Based Sentiment Analysis
+- **Tech:** Python, Pytorch, Transformers, IBMD Dataset
+- [**View Project**](https://github.com/Phiwe-R/Sentimental_Analysis)
+
 #### 🏦 Financial Inclusion Prediction
 - **Tech:** Python, Pandas, Scikit-learn, XGBoost, NumPy
 - [**View Project**](https://github.com/Phiwe-R/inclusion-prediction)
