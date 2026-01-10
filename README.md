@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me :
 
 -  My interests revolve around **Data Science**, **Machine Learning**, **Software** and **AI**
--  I'm currently expanding my knowledge through the **AWS AI & ML Nanodegree Scholarship Programme**
+-  I'm an **AWS AI & ML Nanodegree Scholarship Programme** alumni
 -  Exploring the practical applications of **Scikitlearn**,  **Pandas** , **Numpy** etc.
 ---
 
