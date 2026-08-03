@@ -33,7 +33,7 @@
   
 #### Gas Price Prediction
 - **Tech:** Python using Scikit-Learn, Seaborn and Matplotlib
-- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
+- [**View Project**](https://github.com/Phiwe-R/Gas-Price-Prediction)
 
     
 #### Maji Dongo Water Community - SQL Database Analysis
