@@ -38,7 +38,7 @@
     
 #### Maji Dongo Water Community - SQL Database Analysis
 - **Tech:** MySQL, Python
-- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
+- [**View Project**](https://github.com/Phiwe-R/Maji-Dongo-SQL-Analysis)
   
 #### SentimentScope – Transformer-Based Sentiment Analysis
 - **Tech:** Python, Pytorch, Transformers, IBMD Dataset
