@@ -30,7 +30,16 @@
 #### Fiscal-Year Analysis RAG Chatbot
 - **Tech:** Python, LangChain, Chroma, Mistral LLM, Gradio
 - [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
+  
+#### Gas Price Prediction
+- **Tech:** Python using Scikit-Learn, Seaborn and Matplotlib
+- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
 
+    
+#### Maji Dongo Water Community - SQL Database Analysis
+- **Tech:** MySQL, Python
+- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
+  
 #### SentimentScope – Transformer-Based Sentiment Analysis
 - **Tech:** Python, Pytorch, Transformers, IBMD Dataset
 - [**View Project**](https://github.com/Phiwe-R/Sentimental_Analysis)
