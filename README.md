@@ -42,6 +42,10 @@
 #### Maji Dongo Water Community - SQL Database Analysis
 - **Tech:** MySQL, Python
 - [**View Project**](https://github.com/Phiwe-R/Maji-Dongo-SQL-Analysis)
+
+#### Honours Research Project : Convention Discovery in Partner Uncertainty
+- **Tech:** : Deep Learning (Neural Networks) , Reinforcement Learning, Probabilistic Modelling, Perfomance Analysis, Optimization etc...
+- **Coming Soon :)**
   
 #### SentimentScope – Transformer-Based Sentiment Analysis
 - **Tech:** Python, Pytorch, Transformers, IBMD Dataset
