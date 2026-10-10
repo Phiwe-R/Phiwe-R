@@ -26,15 +26,19 @@
 ---
 
 ### My Projects :
-#### Fiscal-Year Analysis RAG Chatbot
-- **Tech:** Python, LangChain, Chroma, Mistral LLM, Gradio
-- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
-  
+
+#### Data Vizualization and Exploration
+- **Tech:** Python : Machine Learning , Plots, DEA
+- [**View Project**](https://github.com/Phiwe-R/Data-Vizualization-and-Exploration-Assignment)
+
 #### Gas Price Prediction
 - **Tech:** Python using Scikit-Learn, Seaborn and Matplotlib
 - [**View Project**](https://github.com/Phiwe-R/Gas-Price-Prediction)
+  
+#### Fiscal-Year Analysis RAG Chatbot
+- **Tech:** Python, LangChain, Chroma, Mistral LLM, Gradio
+- [**View Project**](https://github.com/Phiwe-R/Fiscal-Year-Analysis)
 
-    
 #### Maji Dongo Water Community - SQL Database Analysis
 - **Tech:** MySQL, Python
 - [**View Project**](https://github.com/Phiwe-R/Maji-Dongo-SQL-Analysis)
